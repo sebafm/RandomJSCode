@@ -1,1 +1,2 @@
-# Just some random JavaScript Code Snippets for learning purposes
+# Random stuff
+Just some random JavaScript Code Snippets for learning purposes
